@@ -2,10 +2,10 @@
 
 This repository contains a collection of my public blogs and articles:
 
-- [A Different Type of SQL Recursion with PostgreSQL #1](https://github.com/vb-consulting/blog/discussions/1)
-- [Which Way .NET Developer?  #2](https://github.com/vb-consulting/blog/discussions/2)
-- [Haters Build Software - Not Architectures #3](https://github.com/vb-consulting/blog/discussions/3)
-- [Recursion with PostgreSQL, Follup 1, Perfomances](https://github.com/vb-consulting/blog/discussions/4)
+- [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
+- [Which Way .NET Developer?](https://github.com/vb-consulting/blog/discussions/2)
+- [Haters Build Software - Not Architectures](https://github.com/vb-consulting/blog/discussions/3)
+- [Recursion with PostgreSQL Follow-Up 1 - Performances](https://github.com/vb-consulting/blog/discussions/4)
 
 This list in this readme file will be periodically updated as blogs are added to the discussion board. 
 
