@@ -7,6 +7,7 @@ This repository contains a collection of my public blogs and articles:
 - [Haters Build Software - Not Architectures](https://github.com/vb-consulting/blog/discussions/3)
 - [Recursion with PostgreSQL Follow-Up 1 - Performances](https://github.com/vb-consulting/blog/discussions/4)
 - [Recursion with PostgreSQL Follow-Up 2 - CYCLE Detection and Processing Millions of Nodes](https://github.com/vb-consulting/blog/discussions/5)
+- [Recursion with PostgreSQL Follow-Up 3 - Finding the Right Path](https://github.com/vb-consulting/blog/discussions/6)
 
 This list in this readme file will be periodically updated as blogs are added to the discussion board. 
 
