@@ -1,23 +1,19 @@
-# The Collection of Public Blogs and Articles
+# [vb-consulting.github.io](https://vb-consulting.github.io/) blogs
 
-This repository contains a collection of my public blogs and articles:
+**Subscribe to this repository to receive notifications whenever a new article is published at https://vb-consulting.github.io/**
 
-- [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
-- [Which Way .NET Developer?](https://github.com/vb-consulting/blog/discussions/2)
-- [Haters Build Software - Not Architectures](https://github.com/vb-consulting/blog/discussions/3)
-- [Recursion with PostgreSQL Follow-Up 1 - Performances](https://github.com/vb-consulting/blog/discussions/4)
-- [Recursion with PostgreSQL Follow-Up 2 - CYCLE Detection and Processing Millions of Nodes](https://github.com/vb-consulting/blog/discussions/5)
-- [Recursion with PostgreSQL Follow-Up 3 - Finding the Right Path](https://github.com/vb-consulting/blog/discussions/6)
-- [Temporal table in PostgreSQL ](https://github.com/vb-consulting/blog/discussions/7)
-- [Execute a Custom Function In Each Record Returned By the SELECT Query](https://github.com/vb-consulting/blog/discussions/8)
+Whenever a new blog is published on https://vb-consulting.github.io/, this list is updated.
 
-This list in this readme file will be periodically updated as blogs are added to the discussion board. 
-
-You can follow this repository to receive notifications for newly published articles.
-
-You can also subscribe, like, or comment on every individual article page.
-
-The complete list of blogs and articles can be found on [discussion page](https://github.com/vb-consulting/blog/discussions).
+- [What is Micro ORM?](https://vb-consulting.github.io/blog/micro-orm/)
+- [What have the STORED PROCEDURES ever done for us?](https://vb-consulting.github.io/blog/what-have-stored-procedures-ever-done/)
+- [Which Way .NET Developer?](https://vb-consulting.github.io/blog/where-to/)
+- [Custom Temporal Tables in PostgreSQL](https://vb-consulting.github.io/blog/postgresql-temporal-tables/)
+- [Haters Build Software - Not Architectures](https://vb-consulting.github.io/blog/haters-build-software/)
+- [Recursion with PostgreSQL Part 1 - A Different Type of Recursion](https://vb-consulting.github.io/blog/recursion-postgresql/part1-different-type-of-recursion/)
+- [Recursion with PostgreSQL Part 2 - Performances](https://vb-consulting.github.io/blog/recursion-postgresql/part2-performances/)
+- [Recursion with PostgreSQL Part 3 - Cycle Detection](https://vb-consulting.github.io/blog/recursion-postgresql/part3-cycle-detection/)
+- [Recursion with PostgreSQL Part 4 - Finding the Right Path](https://vb-consulting.github.io/blog/recursion-postgresql/part4-right-path/)
+- [Execute Custom Function For Each Record](https://vb-consulting.github.io/blog/postgresql-record-type/)
 
 ## Licence 
 
