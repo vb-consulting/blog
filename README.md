@@ -14,7 +14,8 @@ Whenever a new blog is published on https://vb-consulting.github.io/, this list 
 - [Recursion with PostgreSQL Part 3 - Cycle Detection](https://vb-consulting.github.io/blog/recursion-postgresql/part3-cycle-detection/)
 - [Recursion with PostgreSQL Part 4 - Finding the Right Path](https://vb-consulting.github.io/blog/recursion-postgresql/part4-right-path/)
 - [Execute Custom Function For Each Record](https://vb-consulting.github.io/blog/postgresql-record-type/)
-
+- [NpgsqlRest NuGet Library ](https://github.com/vb-consulting/blog/discussions/9)
+  
 ## Licence 
 
 All articles are under **Creative Commons** public license:
